@@ -1,6 +1,3 @@
-/*
-README.md 内容：
-
 # MosaicCpp
 
 🎨 一个用 C++ 和 OpenCV 实现的马赛克图像生成器，支持高质量、缩放、自定义色块等特性。
@@ -55,4 +52,3 @@ make
 ## 许可
 
 MIT License.
-*/
