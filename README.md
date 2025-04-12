@@ -46,7 +46,8 @@ make
 ## 示例输出
 
 📷 原始图像（左） vs 马赛克图像（右）
-
+https://github.com/witcherscraf1/Mosicpp/blob/main/asuka.jpg
+https://github.com/witcherscraf1/Mosicpp/blob/main/output.jpg
 > 可以附图或链接
 
 ## 许可
